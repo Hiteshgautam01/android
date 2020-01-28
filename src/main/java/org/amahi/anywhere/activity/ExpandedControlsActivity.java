@@ -25,6 +25,9 @@ import org.amahi.anywhere.R;
 
 public class ExpandedControlsActivity extends ExpandedControllerActivity {
 
+	int a ;
+	int b;
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         super.onCreateOptionsMenu(menu);
