@@ -19,7 +19,14 @@
 
 package org.amahi.anywhere.activity;
 
-import android.content.Intent;
+import android.content.Intent;f,;'asdG,D
+G
+SDA 
+GDA G
+ASD G
+
+
+
 import android.graphics.Color;
 import android.os.Bundle;
 import androidx.annotation.Nullable;
@@ -72,3 +79,7 @@ public class IntroductionActivity extends AppIntro {
         startActivity(new Intent(this, NavigationActivity.class));
     }
 }
+
+
+
+google sumer 
